@@ -23,6 +23,7 @@ The SWAPI service is public, read-only, and supports only `GET` requests — per
 
 ## Project structure
 
+```
 pytest-swapi-tests/
 │── tests/
 │ │── conftest.py
@@ -33,6 +34,7 @@ pytest-swapi-tests/
 │── pytest.ini
 │── README.md
 └── requirements.txt
+```
 
 ---
 
