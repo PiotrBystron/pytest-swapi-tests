@@ -1,0 +1,1 @@
+# pytest-swapi-tests
